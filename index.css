@@ -6,7 +6,7 @@ body {
     margin-top: 25px;}
     
 img {
-    max: width 30px;;
+    max-width: 50%;
     max-width: auto;
     }
 
