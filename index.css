@@ -3,13 +3,13 @@ body {
     margin-left: 25px;
     margin-right: 25px;
     margin-bottom: 25px;
-    margin-top: 25px;
+    margin-top: 25px;}
     
-    img {
-        max: width 30px;;
-        max-width: auto;
+img {
+    max: width 30px;;
+    max-width: auto;
     }
-}
+
 
 header {
     background-color: red;
