@@ -4,17 +4,20 @@ body {
     margin-right: 25px;
     margin-bottom: 25px;
     margin-top: 25px;
+    
     img {
-        width: 60%;
-        height: auto;
-    };
+        max-width: 50%;
+        max-width: 50%;
+    }
 }
 
 header {
     background-color: red;
     padding: 15px;
-    border-bottom: 5px rgb(111, 0, 255);
+    border-bottom: 20px rgb(111, 0, 255);
 }
 
 h1 {color: rgb(111, 0, 255);
-font-size: 24px;}
+font-size: larger;}
+h2 {color: blue;
+font-size: large;}
